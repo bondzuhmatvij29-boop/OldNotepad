@@ -1,35 +1,23 @@
 <div align="center">
-  <img src="img/icon.png" alt="OldNotepad Icon" width="128" height="128" />
 
-  # OldNotepad
+# 📒 OldNotepad 📝 
 
-  **A simple yet highly technological notepad crafted for Android 3.2+.**
+![Android](https://img.shields.io/badge/ANDROID-3.2%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Display](https://img.shields.io/badge/SCREEN-16%3A9%20TV-0078D7?style=for-the-badge)
+![Version](https://img.shields.io/badge/RELEASE-LATEST-FF4500?style=for-the-badge)
+![Signing](https://img.shields.io/badge/KEY-TEST%20KEY-E53935?style=for-the-badge)
 
-  <a href="README.md">English</a> •
-  <a href="README-uk.md">Українська</a> 
-  <a href="README-ru.md">Русский</a>
+**A simple yet highly technological notepad crafted for Android 3.2+ and 16:9 widescreen displays!**
 
-  <br />
-  <a href="#about">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+<a href="README.md">English</a> •
+<a href="README-uk.md">Українська</a> •
+<a href="README-ru.md">Русский</a>
+
 </div>
 
 ---
 
-## About
-
-**OldNotepad** is a simple notepad built with a strong technological core for **Android 3.2+**. It keeps note-taking clean, fast, and uncluttered while delivering reliable performance on both classic and modern 16:9 displays.
-
-## Features
-
-- **Simple & Technological** — Straightforward writing experience backed by solid engineering for **Android 3.2+**.
-- **TV-Ready 16:9 Presentation** — Clear layout and readable elements suited for 16:9 widescreen viewing.
-- **Multilingual Documentation** — Guides and rules available in English, Ukrainian, and Russian.
-
-## Screenshots
+## 📸 Preview
 
 16:9 widescreen captures taken on a TV display:
 
@@ -91,10 +79,16 @@
   </tr>
 </table>
 
+## About & Features
+
+- **Simple & Technological:** Straightforward note-taking backed by solid engineering for **Android 3.2+**.
+- **16:9 TV Ready:** Clean layout adapted for 16:9 widescreen screens and TVs.
+- **Test Key Notice:** Release builds are signed with a test key; uninstalling the previous version may be required if future builds use a different signing key.
+
 ## Contributing
 
-Contributions, bug reports, and ideas are always welcome. Please check [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) — © 2026 ByteTools Inc (MSN Man).
+Licensed under the [MIT License](LICENSE) — © 2026 ByteTools Inc (MSN Man). Copying this app is prohibited.
