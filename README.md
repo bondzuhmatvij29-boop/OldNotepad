@@ -6,7 +6,7 @@
   **A simple yet highly technological notepad crafted for Android 3.2+.**
 
   <a href="README.md">English</a> •
-  <a href="READMEuk.md">Українська</a> 
+  <a href="README-uk.md">Українська</a> 
   <a href="README-ru.md">Русский</a>
 
   <br />
