@@ -6,8 +6,8 @@
   **Простой и при этом очень технологичный блокнот, созданный для Android 3.2+.**
 
   <a href="README.md">English</a> •
-  <a href="README.uk.md">Українська</a> •
-  <a href="README.ru.md">Русский</a>
+  <a href="README-uk.md">Українська</a> •
+  <a href="README-ru.md">Русский</a>
 
   <br />
   <a href="#о-проекте">О проекте</a> •
